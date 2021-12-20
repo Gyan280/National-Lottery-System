@@ -1,0 +1,14 @@
+C:\Users\F.O.P\AppData\Local\Temporary Projects\NLA\bin\Debug\NLA.exe
+C:\Users\F.O.P\AppData\Local\Temporary Projects\NLA\bin\Debug\NLA.pdb
+C:\Users\F.O.P\AppData\Local\Temporary Projects\NLA\obj\x86\Debug\NLA.Form1.resources
+C:\Users\F.O.P\AppData\Local\Temporary Projects\NLA\obj\x86\Debug\NLA.Properties.Resources.resources
+C:\Users\F.O.P\AppData\Local\Temporary Projects\NLA\obj\x86\Debug\NLA.csproj.GenerateResource.Cache
+C:\Users\F.O.P\AppData\Local\Temporary Projects\NLA\obj\x86\Debug\NLA.exe
+C:\Users\F.O.P\AppData\Local\Temporary Projects\NLA\obj\x86\Debug\NLA.pdb
+C:\Users\F.O.P\Desktop\C# Projects\NLA\NLA\obj\x86\Debug\NLA.exe
+C:\Users\F.O.P\Desktop\C# Projects\NLA\NLA\obj\x86\Debug\NLA.pdb
+C:\Users\F.O.P\Desktop\C# Projects\NLA\NLA\bin\Debug\NLA.exe
+C:\Users\F.O.P\Desktop\C# Projects\NLA\NLA\bin\Debug\NLA.pdb
+C:\Users\F.O.P\Desktop\C# Projects\NLA\NLA\obj\x86\Debug\NLA.Form1.resources
+C:\Users\F.O.P\Desktop\C# Projects\NLA\NLA\obj\x86\Debug\NLA.Properties.Resources.resources
+C:\Users\F.O.P\Desktop\C# Projects\NLA\NLA\obj\x86\Debug\NLA.csproj.GenerateResource.Cache
